@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Feel free to drop me a line if you're interested in my work.
+
 <!--
 **zeljkoagic/zeljkoagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
