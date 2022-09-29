@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 Feel free to drop me a line if you're interested in my work.
 
